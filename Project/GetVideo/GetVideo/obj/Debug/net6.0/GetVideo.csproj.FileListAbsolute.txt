@@ -1,0 +1,15 @@
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\bin\Debug\net6.0\GetVideo.exe
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\bin\Debug\net6.0\GetVideo.deps.json
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\bin\Debug\net6.0\GetVideo.runtimeconfig.json
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\bin\Debug\net6.0\GetVideo.dll
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\bin\Debug\net6.0\GetVideo.pdb
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.csproj.AssemblyReference.cache
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.AssemblyInfoInputs.cache
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.AssemblyInfo.cs
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.csproj.CoreCompileInputs.cache
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.dll
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\refint\GetVideo.dll
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.pdb
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\GetVideo.genruntimeconfig.cache
+C:\Users\wenkuo\Desktop\GetVideo\Project\GetVideo\GetVideo\obj\Debug\net6.0\ref\GetVideo.dll
